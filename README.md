@@ -1,5 +1,3 @@
-# Elevate-Labs-Task-6
+# Task-6-Elevate-Labs
 
-In my Task 6 i learned the understading of password security and learn how to create a strong and reliable password to 
-keep my data safe in this Digital World
-
+ I gained knowledge about password security in Task 6 and learnt how to generate a strong, trustworthy password to protect my data in this digital age.
